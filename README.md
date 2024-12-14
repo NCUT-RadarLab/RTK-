@@ -1,6 +1,6 @@
 WGS84ToUTM 
 -- 用于将经纬度转换为墨卡托投影，并且与雷达消息的时间戳进行对齐（采用线性差值的方式。）
--- 输入：raw_gnss.csv   雷达时间戳.csv
+-- 输入：raw_gnss.csv   pointcloud.csv_time_vector2.csv.csv
 -- 输出：RTK.csv
 
 
